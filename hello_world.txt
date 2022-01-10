@@ -1,0 +1,3 @@
+I am practising git using the odin project.
+ It's super amazing.
+ I love the Odin Project.
